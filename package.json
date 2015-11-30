@@ -1,0 +1,12 @@
+{
+	"name": "walterworks",
+	"version": "1.0.0",
+	"description": "Creates a JS framework feature set every 12 minutes",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha test.js"
+	},
+	"keywords": [],
+	"author": "James Macfie <james@macfie.co.nz> (http://jamesmacfie.com/)",
+	"license": "ISC"
+}
