@@ -1,6 +1,6 @@
 {
 	"name": "walterworks",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Creates a JS framework feature set every 12 minutes",
 	"main": "index.js",
 	"scripts": {
